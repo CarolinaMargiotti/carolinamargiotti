@@ -4,7 +4,7 @@
 
 ✨ Excited to learn more about front-end development! ✨
      
-<img src="https://github-readme-stats.vercel.app/api?username=carolinamargiotti&theme=maroongold" alt="stats" height="250">
+<img src="https://github-readme-stats.vercel.app/api?username=carolinamargiotti&theme=bear" alt="stats" height="250">
 
 
 
