@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=carolinamargiotti">
 
-✨ Excited to learn more about front-end development! ✨
+✨ Excited to learn more about front-end and micro front-end development! ✨
      
 <img src="https://github-readme-stats.vercel.app/api?username=carolinamargiotti&theme=bear" alt="stats" height="250">
 
